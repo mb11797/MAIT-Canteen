@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="E:/Manas Dell G/RVBMR/Module_I_J2SE_Core_Java_Training/SetUpFiles/src.zip"/>
+	<classpathentry exported="true" kind="lib" path="E:/Manas Dell G/RVBMR/Module_I_J2SE_Core_Java_Training/SetUpFiles/mysql-connector-java-5.0.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
